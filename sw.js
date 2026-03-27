@@ -1,4 +1,4 @@
-const CACHE = 'habitflow-v2';
+const CACHE = 'habitflow-v3';
 const ASSETS = ['/Habitflow/', '/Habitflow/index.html', '/Habitflow/manifest.json', '/Habitflow/icon.svg'];
 
 self.addEventListener('install', e => {
